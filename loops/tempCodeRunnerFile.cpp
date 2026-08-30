@@ -1,0 +1,1 @@
+cout<<power<<" is the power of "<<a <<" to the power " <<b;
